@@ -132,11 +132,14 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
-![OUTPUT](./ex05 ouput.png)
+
+![ex05 output](https://github.com/Sujithra-dhayalan/serversideprocessing/assets/115523950/bdd320d0-c712-49b1-bcc4-ada123fbb485)
 
 
 ### Home Page:
-![Homepage](./ex05 home.png)
+![ex05 home](https://github.com/Sujithra-dhayalan/serversideprocessing/assets/115523950/02855780-bf62-47c0-8f45-9b7d07ba7b07)
+
+
 
 
 ## Result:
